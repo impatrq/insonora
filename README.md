@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Proyecto Insonora - IMPA TRQ]
+# Proyecto Insonora - IMPA TRQ
 
 <img src="https://cdn.discordapp.com/attachments/890367697978794064/1176678777678471288/logo_insonora_x2.png?ex=656fbe82&is=655d4982&hm=e8c44632544dda3a46701b5c62e36208b994b9866b500cf7d2d995a43f4c58e9&" height="240" width="426" />
 
