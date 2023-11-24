@@ -41,28 +41,28 @@ Somos un grupo de alumnos de E.E.S.T. N°7 "Taller Regional Quilmes" (IMPA).
 
 * 📧 francocamdessus@gmail.com
 
-* LinkedIn: 
+* LinkedIn: https://www.linkedin.com/in/franco-camdessus-175991275/
 
 ### Luna, Thiago
 * 📷 Instagram: thiago.lunaa
 
 * 📧 
 
-* LinkedIn: 
+* LinkedIn: https://www.linkedin.com/in/thiago-luna-5606a8272/
 
 ### Guida, Dylan Ulises
 * 📷 Instagram: dy.guida
 
 * 📧 guidad475@gmail.com
 
-* LinkedIn: 
+* LinkedIn: https://www.linkedin.com/in/dylan-guida-2a4480258/
 
 ### Weinzettel, Dylan
 * 📷 Instagram: dylan_zeq
 
 * 📧 weinzettel.dylan@hotmail.com
   
-* LinkedIn: 
+* LinkedIn: https://www.linkedin.com/in/dylan-weinzettel-9874b429a/
 
 
 <div align="center">
